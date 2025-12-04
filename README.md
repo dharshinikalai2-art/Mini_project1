@@ -1,0 +1,2 @@
+# Mini_project1
+ELECTRICITY BILL GENERATOR
